@@ -1,0 +1,17 @@
+linkedIn:
+  id: 'shuyuanshen'
+  href: 'https://www.linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+twitter:
+  id: 'Shuyuan__Shen'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'ShuyuanShen'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
